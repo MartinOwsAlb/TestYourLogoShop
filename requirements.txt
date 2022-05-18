@@ -1,0 +1,10 @@
+click==7.1.2
+isort==5.10.1
+packaging==20.9
+py==1.10.0
+pytest==6.2.5
+pytest-xdist==2.5.0
+requests == 2.27.1
+allure-python-commons == 2.9.45
+allure-pytest == 2.9.45
+selenium==4.1.0
